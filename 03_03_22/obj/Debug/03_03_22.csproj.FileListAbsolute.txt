@@ -1,0 +1,10 @@
+C:\Users\onur.puskullu\source\repos\03_03_22\03_03_22\bin\Debug\03_03_22.exe.config
+C:\Users\onur.puskullu\source\repos\03_03_22\03_03_22\bin\Debug\03_03_22.exe
+C:\Users\onur.puskullu\source\repos\03_03_22\03_03_22\bin\Debug\03_03_22.pdb
+C:\Users\onur.puskullu\source\repos\03_03_22\03_03_22\obj\Debug\03_03_22.csproj.SuggestedBindingRedirects.cache
+C:\Users\onur.puskullu\source\repos\03_03_22\03_03_22\obj\Debug\_03_03_22.Form1.resources
+C:\Users\onur.puskullu\source\repos\03_03_22\03_03_22\obj\Debug\_03_03_22.Properties.Resources.resources
+C:\Users\onur.puskullu\source\repos\03_03_22\03_03_22\obj\Debug\03_03_22.csproj.GenerateResource.cache
+C:\Users\onur.puskullu\source\repos\03_03_22\03_03_22\obj\Debug\03_03_22.csproj.CoreCompileInputs.cache
+C:\Users\onur.puskullu\source\repos\03_03_22\03_03_22\obj\Debug\03_03_22.exe
+C:\Users\onur.puskullu\source\repos\03_03_22\03_03_22\obj\Debug\03_03_22.pdb
